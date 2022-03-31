@@ -11,7 +11,6 @@
     justify-content: center;
 
     .circles {
-      width: 500px;
       margin-bottom: 10px;
 
       .circle {
@@ -20,8 +19,15 @@
     }
 
     h1 {
-      font-size: 3rem;
-      font-weight: 600;
+      text-align: center;
+      span {
+        font-size: 3rem;
+        font-weight: 600;
+      }
+      
+      .cursor {
+        font-weight: 100;
+      }
     }
     
     h3 {
@@ -29,11 +35,13 @@
       margin-bottom: 20px;
       font-size: 1.8rem;
       font-weight: 100;
+      text-align: center;
     }
-
+    
     span {
       font-size: 1.2rem;
       font-weight: 300;
+      text-align: center;
     }
 
     .contact {
@@ -71,5 +79,13 @@
         }
       }
     }
+  }
+}
+
+.mobile-circles {
+  padding: 10px;
+
+  .circle {
+    margin-right: 5px;
   }
 }
