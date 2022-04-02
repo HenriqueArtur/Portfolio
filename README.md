@@ -1,6 +1,6 @@
 # Portfolio
 
-This project was created to be my portfolio webpage. [https://henriqueartur.com](henriqueartur.com)
+This project was created to be my portfolio webpage. [henriqueartur.com](https://henriqueartur.com)
 It's still incomplete.
 
 ## Future features
